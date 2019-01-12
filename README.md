@@ -16,3 +16,4 @@ Each cell is only depended on its neighboring cells and each cells has two state
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
 ## Screenshot
+![](images/Screenshot_1.png)
