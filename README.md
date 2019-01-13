@@ -5,7 +5,7 @@ A simple demonstration of Conway's Game of Life.
 * NetBeans or any Java IDE
 
 ## Instructions
-Simply open the GameOfLife project in NetBeans or other Java IDE to hit run. Once the simulation has started, it will last for 500 generations starting with random planted cells.
+Simply open the GameOfLife project in NetBeans or other Java IDE and hit run. Once the simulation has started, it will last for 500 generations starting with random planted cells.
 
 ## Rules
 Each cell is only depended on its neighboring cells and each cells has two states of either being alive or dead. The simulation follows the rules below:
