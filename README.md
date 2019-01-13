@@ -17,3 +17,9 @@ Each cell is only depended on its neighboring cells and each cells has two state
 
 ## Screenshot
 ![](images/Screenshot_1.png)
+
+## Built With
+* Java
+
+## Author(s)
+* Kevin Huang
